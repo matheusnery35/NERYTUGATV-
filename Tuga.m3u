@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="http://epgshare01.online/epgshare01/epg_rtp.xml"
+
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Portugal", RTP 1 (Web)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP2.pt" group-title="Portugal", RTP 2 (Web)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP3.pt" group-title="Portugal", RTP 3 (Web)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="Portugal", RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="Portugal", RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="Portugal", RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPInternacional.pt" group-title="Portugal", RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpinternacional.smil/playlist.m3u8
